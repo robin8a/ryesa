@@ -125,8 +125,8 @@ El proyecto se ejecutará en el transcurso de 18 meses, después de la aceptaci�
 
 A continuación se muestra la lista de servicios incluidos con el proyecto. ¿Ves algo que falta o quieres agregar algo a la lista de servicios? Póngase en contacto con nosotros lo antes posible y lo agregaremos de inmediato.
 
-- Entrenamiento [$0]
-- Manual / Documentación [$0]
+- Entrenamiento
+- Manual / Documentación
 
 # Hitos y cómo trabajamos?
 
@@ -144,7 +144,7 @@ Nos gusta mantenerte actualizado. Una vez que se llegue a un acuerdo, programare
 
 - Definición Sprint (nuevas funcionalidades, incidentes)
 - Reunión funcionalidaddes
-- Pruebas antes de reunión y reportes de incidentes
+- Pruebas previas antes de cada reunión  (reportes de incidentes)
 
 
 # Próximos paso
