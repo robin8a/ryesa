@@ -15,8 +15,28 @@ Quieren que sus clientes y ustedes tengan un control sobre las Ordenes de Servic
 - Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto
 
 # Nuestro Equipo
+El grupo ©SUMMUS.APP, integrado por INTERPEGASUS.IO y KAMAY.IO es una empresa de servicios profesionales en el área de tecnología, que cuenta con personal con una amplia experiencia y altamente calificado y certificados en múltiples áreas  de Tecnología, lo que nos permite dar garantías de un trabajo profesional de alta calidad y seriedad.
 
-- Rosalba Gómez
+- Rose Peterson, Fundador CIO
+- Arturo Gomez, Founder CEO
+- Robin Ochoa, Founder CTO
+
+
+
+# Nuestro Objetivo
+Apoyar, asesorar e implementar soluciones en el área de tecnología a nivel mundial.  La tecnología es un recurso esencial para el crecimiento, mantenimiento y posicionamiento de cualquier negocio. Nuestra misión es ayudar a las empresas para que crezcan en competitividad,  en un mercado que es cada vez más exigente y cambiante.  Le ayudamos a crear valor de innovaciones tecnológicas en soluciones que estén alineadas con los  objetivos empresariales.
+Nuestros profesionales, así como nuestros clientes, son nuestro recurso y capital más importante; y mantener su alta satisfacción y aceptación, es así mismo nuestro objetivo más importante.
+
+# Nuestro Grupo de Profesionales
+Somos profesionales con una sólida formación académica. Mantenernos siempre actualizados en últimas tecnologías y tendencias del mercado, así como nuestra amplia experiencia en múltiples áreas de tecnología, nos dan un valor excepcional y alto posicionamiento con nuestros clientes.
+Nuestra experiencia está enfocada en las áreas de Desarrollo de Software y Aplicaciones,  Inteligencia Artificial (Artificial Intelligence AI), Analítica, Internet de las Cosas (IoT Internet of Things), Bases de Datos, Servicios de Nube (Cloud Amazon Web Services AWS), Blockchain, Seguridad, Automatización de Infraestructura, Desarrollo de Software y Aplicaciones Web y Mobile, y DevOps entre otras. 
+Entre nuestros valores destacamos la mejora continua y permanente actualización y entrenamiento en nuevas áreas de tecnología, lo que nos convierte en una excelente opción competitiva.  Nuestros desarrollos e implementación de productos, son alineados con prácticas de Agile, que nos permiten una alta colaboración con nuestros clientes, rapidez de entregas y fácil adaptación a cambios.
+
+
+
+
+ Ingeniero informático con maestría en desarrollo de software y más de 25 años de experiencia en tecnología en automatización de infraestructura, desarrolladores y computación en la nube. También tiene experiencia en posicionamiento y promoción de nuevos productos en América Latina.
+
 - Arturo Gómez
 - Robin Ochoa
 
