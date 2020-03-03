@@ -39,7 +39,7 @@ Con el fin de tener una clasificación clara de los ERPs o Modulos principales q
 # Investment (Pricing-Plans)
 
 ## Opción 1:
-- [Google RollOut Opcion1: ](https://docs.google.com/spreadsheets/d/1c4yo2j-C4T0zpIs_w0koCj7EBPP0vFAiI9s0bpoKX1Y/edit?usp=sharing)
+- [Google RollOut Opcion-1: ](https://docs.google.com/spreadsheets/d/1c4yo2j-C4T0zpIs_w0koCj7EBPP0vFAiI9s0bpoKX1Y/edit?usp=sharing)
 
 El proyecto se ejecutará en el transcurso de 6 meses, después de la aceptación del producto se hará un nuevo acuerdo donde se estipulará el cobro por orden de servicio creada, ésto quiere decir que dependiendo de ése número se harán los cargos mensuales. 
 
@@ -53,25 +53,59 @@ El proyecto se ejecutará en el transcurso de 6 meses, después de la aceptació
 - Poliza de incumplimiento
 
 ### Pago Inicial: 
-$20M
+- $20M
 
 ### Pago Mensual
-- Mes 1:    8.3M
-- Mes 2:    8.3M
-- Mes 3:    8.3M
-- Mes 4:    8.3M
-- Mes 5:    8.3M
-- Mes 5:    8.3M
+- Mes 1-6:    8.3M
 
 
 ## Opción 2:
+- [Google RollOut Opcion-2](https://docs.google.com/spreadsheets/d/1xbeF_M3Zhp4skJNZgf-cqyLOJjZNILMa6xobYr1buoE/edit?usp=sharing)
+
+El proyecto se ejecutará en el transcurso de 12 meses, después de la aceptación del producto se hará un nuevo acuerdo donde se estipulará el cobro por orden de servicio creada, ésto quiere decir que dependiendo de ése número se harán los cargos mensuales. 
 
 ### Incluye
 
+- Desarrollo e integración de los siete Modulos
+- Arquitecto Software medio tiempo los primeros 4 meses, luego dedicación parcial según las necesidades del proyecto
+- Experto Ux/UI 4 meses
+- Ingeniero dedicado los primeros 6 meses, luego 6 meses medio tiempo para nuevas funcionalidades
+- Soporte horas oficina (lunes a viernes)
+- Paquete (peso 8) nuevas funcionalidades a partir de la entrega y aceptacion del proyecto
+
+
 ### No incluye
 - [RO] Poliza de incumplimiento
-- [RO] Ux/Uil lo hacemos nosotros con plantilla
 
+### Pago Inicial: 
+- $20M
+
+### Pago Mensual
+- Mes 1-12:    $5M
+
+## Opción 3:
+- [Google RollOut Opcion-2](https://docs.google.com/spreadsheets/d/14ZzwYLTnI9cZULSmTt8IZEJMP7YIC4GN_HM9_KxhoUM/edit?usp=sharing)
+
+El proyecto se ejecutará en el transcurso de 18 meses, después de la aceptación del producto y transcurrido los 18 meses se hará un nuevo acuerdo donde se estipulará el cobro por orden de servicio creada, ésto quiere decir que dependiendo de ése número se harán los cargos mensuales.
+
+### Incluye
+
+- Desarrollo e integración de los siete Modulos
+- Arquitecto Software medio tiempo los primeros 4 meses, luego dedicación parcial según las necesidades del proyecto
+- Ingeniero dedicado los primeros 6 meses, luego 6 meses medio tiempo para nuevas funcionalidades
+- Soporte horas oficina (lunes a viernes)
+- Paquete (peso 8) nuevas funcionalidades a partir de la entrega y aceptacion del proyecto
+
+
+### No incluye
+- [RO] Poliza de incumplimiento
+- [RO] Experto Ux/UI, se hará con plantillas y estándares
+
+### Pago Inicial: 
+- $20M
+
+### Pago Mensual
+- Mes 2-18:    3M
 
 # Servicios
 
