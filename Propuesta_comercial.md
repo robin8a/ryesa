@@ -5,6 +5,7 @@
 - [Templates: SaaS Proposal](https://www.goprospero.com/saas-sales-proposal-template/)
 - [Templates: SaaS {roposify](https://templates.proposify.com/proposal-template/saas/1527049)
 - [Cotizador Seguros Bonanza](https://www.segurosbonanza.co/cotizador.php?mod=2)
+- [Salario Ux/UI](https://neuvoo.com.mx/salario/?job=UX)
 
 # Introducción
 Quieren que sus clientes y ustedes tengan un control sobre las Ordenes de Servicio mensualmente y los servicios transversales que lo soportan. Por ésta razón vamos a proveeder un conjunto de ERPs (Modulos) y aplicación movil con el fin de ordenar, facilitar y simplificar los procesos involucrados. Ademas de crecer continuamente juntos.
@@ -33,16 +34,9 @@ Nuestra experiencia está enfocada en las áreas de Desarrollo de Software y Apl
 Entre nuestros valores destacamos la mejora continua y permanente actualización y entrenamiento en nuevas áreas de tecnología, lo que nos convierte en una excelente opción competitiva.  Nuestros desarrollos e implementación de productos, son alineados con prácticas de Agile, que nos permiten una alta colaboración con nuestros clientes, rapidez de entregas y fácil adaptación a cambios.
 
 
-
-
- Ingeniero informático con maestría en desarrollo de software y más de 25 años de experiencia en tecnología en automatización de infraestructura, desarrolladores y computación en la nube. También tiene experiencia en posicionamiento y promoción de nuevos productos en América Latina.
-
-- Arturo Gómez
-- Robin Ochoa
-
 # Que obtendrás
 
-Con el fin de tener una clasificación clara de los ERPs o Modulos principales que serán implementados y así mismo el licenciamiento para cada uno tendríamos:
+Con el fin de tener una clasificación clara de los ERPs (Modulos) principales que serán implementados y así mismo el licenciamiento para cada uno tendríamos:
 
 1. Módulo de Recursos Humanos
 2. Módulo de Ordenes de Servicio
@@ -59,7 +53,8 @@ Con el fin de tener una clasificación clara de los ERPs o Modulos principales q
 ## Opción 1:
 - [Google RollOut Opcion-1: ](https://docs.google.com/spreadsheets/d/1c4yo2j-C4T0zpIs_w0koCj7EBPP0vFAiI9s0bpoKX1Y/edit?usp=sharing)
 
-El proyecto se ejecutará en el transcurso de 6 meses, después de la aceptación del producto se hará un nuevo acuerdo donde se estipulará el cobro por orden de servicio creada, ésto quiere decir que dependiendo de ése número se harán los cargos mensuales. 
+El proyecto se ejecutará en el transcurso de 6 meses, después de la aceptación del producto se hará un nuevo acuerdo donde se estipulará el cobro por (orden de servicio, usuarios, item inventario) creados y un mínimo para soporte y mantenimiento, ésto quiere decir que dependiendo de éstos valores se harán los cargos mensuales.
+
 
 ### Incluye
 - Desarrollo e integración de los siete Modulos
@@ -69,12 +64,14 @@ El proyecto se ejecutará en el transcurso de 6 meses, después de la aceptació
 - Soporte horas oficina (lunes a viernes)
 - Paquete (peso 8) nuevas funcionalidades a partir de la entrega y aceptacion del proy
 
+### No incluye
+- Costos de AWS
+
 ### Pago Inicial: 
 - $20M
 
 ### Pago Mensual
-- Mes 1-6:    8.3M
-
+- Mes 1-6:    $8.3M
 
 ## Opción 2:
 - [Google RollOut Opcion-2](https://docs.google.com/spreadsheets/d/1xbeF_M3Zhp4skJNZgf-cqyLOJjZNILMa6xobYr1buoE/edit?usp=sharing)
@@ -83,7 +80,7 @@ El proyecto se ejecutará en el transcurso de 12 meses, después de la aceptaci�
 
 ### Incluye
 
-- Desarrollo e integración de los siete Modulos
+- Desarrollo e integración de los siete(7) modulos
 - Arquitecto Software medio tiempo los primeros 4 meses, luego dedicación parcial según las necesidades del proyecto
 - Experto Ux/UI 4 meses
 - Ingeniero dedicado los primeros 6 meses, luego 6 meses medio tiempo para nuevas funcionalidades
@@ -92,7 +89,6 @@ El proyecto se ejecutará en el transcurso de 12 meses, después de la aceptaci�
 
 
 ### No incluye
-
 - Costos de AWS
 
 ### Pago Inicial: 
@@ -101,7 +97,7 @@ El proyecto se ejecutará en el transcurso de 12 meses, después de la aceptaci�
 ### Pago Mensual
 - Mes 1-12:    $5M
 
-## Opción 3:
+## Opción 3 (No incluir en la propuesta):
 - [Google RollOut Opcion-3](https://docs.google.com/spreadsheets/d/14ZzwYLTnI9cZULSmTt8IZEJMP7YIC4GN_HM9_KxhoUM/edit?usp=sharing)
 
 El proyecto se ejecutará en el transcurso de 18 meses, después de la aceptación del producto y transcurrido los 18 meses se hará un nuevo acuerdo donde se estipulará el cobro por orden de servicio creada, ésto quiere decir que dependiendo de ése número se harán los cargos mensuales.
@@ -116,26 +112,21 @@ El proyecto se ejecutará en el transcurso de 18 meses, después de la aceptaci�
 
 
 ### No incluye
-- [RO] Experto Ux/UI, se hará con plantillas y estándares
+- Experto Ux/UI, se hará con plantillas y estándares
 - Costos de AWS
 
 ### Pago Inicial: 
 - $20M
 
 ### Pago Mensual
-- Mes 2-18:    3M
+- Mes 2-18:     $3M
 
 # Servicios
 
 A continuación se muestra la lista de servicios incluidos con el proyecto. ¿Ves algo que falta o quieres agregar algo a la lista de servicios? Póngase en contacto con nosotros lo antes posible y lo agregaremos de inmediato.
 
-
 - Entrenamiento [$0]
 - Manual / Documentación [$0]
-- Soporte       [price]
-
-TOTAL           [price]
-
 
 # Hitos y cómo trabajamos?
 
