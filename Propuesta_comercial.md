@@ -1,12 +1,10 @@
-# References
-https://www.comparasoftware.com/sinco-erp/
-https://www.ticportal.es/temas/software-gestion-recursos-humanos/precio-software-recursos-humanos
-https://betterproposals.io/template/index.php?ProposalID=E1BUYOCrMigoYK2-DIbvBBLbhf4tViF1o-v-hFgIO0k&cat=sales
-https://www.goprospero.com/saas-sales-proposal-template/
-https://templates.proposify.com/proposal-template/saas/1527049
-https://www.segurosbonanza.co/cotizador.php?mod=2
-
-- ![Cotización seguros Bonanza](poliza_bonanza.png)
+# Referencias
+- [Comparador de SW](https://www.comparasoftware.com/sinco-erp/)
+- [Precio de SW de Rh](https://www.ticportal.es/temas/software-gestion-recursos-humanos/precio-software-recursos-humanos)
+- [Templates: Better Proposal](https://betterproposals.io/template/index.php?ProposalID=E1BUYOCrMigoYK2-DIbvBBLbhf4tViF1o-v-hFgIO0k&cat=sales)
+- [Templates: SaaS Proposal](https://www.goprospero.com/saas-sales-proposal-template/)
+- [Templates: SaaS {roposify](https://templates.proposify.com/proposal-template/saas/1527049)
+- [Cotizador Seguros Bonanza](https://www.segurosbonanza.co/cotizador.php?mod=2)
 
 # Introducción
 Quieren que sus clientes y ustedes tengan un control sobre las Ordenes de Servicio mensualmente y los servicios transversales que lo soportan. Por ésta razón vamos a proveeder un conjunto de ERPs (Modulos) y aplicación movil con el fin de ordenar, facilitar y simplificar los procesos involucrados. Ademas de crecer continuamente juntos.
@@ -16,7 +14,7 @@ Quieren que sus clientes y ustedes tengan un control sobre las Ordenes de Servic
 - ERP (Enterprise resource planning): La planificación de recursos empresariales es la gestión integrada de los principales procesos comerciales, a menudo en tiempo real y mediada por software y tecnología.
 - Scrum es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto
 
-# Our team
+# Nuestro Equipo
 
 - Rosalba Gómez
 - Arturo Gómez
@@ -36,7 +34,7 @@ Con el fin de tener una clasificación clara de los ERPs o Modulos principales q
 
 ![Diagrama alto nivel entidades y modulos](ER_Model_High_Level_V_1_1.png)
 
-# Investment (Pricing-Plans)
+# Inversioón (Planes de precios)
 
 ## Opción 1:
 - [Google RollOut Opcion-1: ](https://docs.google.com/spreadsheets/d/1c4yo2j-C4T0zpIs_w0koCj7EBPP0vFAiI9s0bpoKX1Y/edit?usp=sharing)
@@ -157,6 +155,11 @@ Work begins as soon as the first payment is cleared. We can’t wait to get star
 7. Any work requested outside of or resulting from this project will be subject to a separate evaluation, analysis, and invoicing.
 8. In the case of project cancellation, the client agrees to pay for all work hours already completed.
 
+
+# Ejemplo Costo Poliza
+
+- ![Cotización seguros Bonanza](poliza_bonanza.png)
+  
 # SINCO ERP
 
 ## ERP
