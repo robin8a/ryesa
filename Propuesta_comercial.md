@@ -22,15 +22,6 @@ Quieren que sus clientes y ustedes tengan un control sobre las Ordenes de Servic
 - Arturo Gómez
 - Robin Ochoa
 
-
-# Porque nosotros
-
-Company Name is the best in the business, but we want to share why we think we’re the best fit for you specifically.
-
-1. Our team has developed their expertise over [x] years, with a specialty in [specific problem].
-2. Our portfolio contains [x] number of examples of customers who have seen positive results from working with us. [Link to portfolio]. In addition, you can see positive reviews of [our software] [here], [here], and [here]. All of these customers had needs similar to yours.
-3. We aim to excel. If you’re not happy after [x] amount of time, a full refund will be available to you.
-
 # Que obtendrás
 
 Con el fin de tener una clasificación clara de los ERPs o Modulos principales que serán implementados y así mismo el licenciamiento para cada uno tendríamos:
@@ -48,6 +39,7 @@ Con el fin de tener una clasificación clara de los ERPs o Modulos principales q
 # Investment (Pricing-Plans)
 
 ## Opción 1:
+- [Google RollOut Opcion1: ](https://docs.google.com/spreadsheets/d/1c4yo2j-C4T0zpIs_w0koCj7EBPP0vFAiI9s0bpoKX1Y/edit?usp=sharing)
 
 El proyecto se ejecutará en el transcurso de 6 meses, después de la aceptación del producto se hará un nuevo acuerdo donde se estipulará el cobro por orden de servicio creada, ésto quiere decir que dependiendo de ése número se harán los cargos mensuales. 
 
@@ -59,10 +51,6 @@ El proyecto se ejecutará en el transcurso de 6 meses, después de la aceptació
 - Soporte horas oficina (lunes a viernes)
 - Paquete (peso 8) nuevas funcionalidades a partir de la entrega y aceptacion del proyecto
 - Poliza de incumplimiento
-
-### No incluye
-- [RO] Poliza de incumplimiento
-- [RO] Ux/Uil lo hacemos nosotros con plantilla
 
 ### Pago Inicial: 
 $20M

@@ -1,5 +1,5 @@
 ```sh
-git remote add origin https://github.com/robin8a/udemy_raspberry_machine_learning.git
+git remote add origin https://github.com/robin8a/ryesa.git
 git push -u origin master
 
 touch initial
