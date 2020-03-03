@@ -34,7 +34,7 @@ Con el fin de tener una clasificación clara de los ERPs o Modulos principales q
 
 ![Diagrama alto nivel entidades y modulos](ER_Model_High_Level_V_1_1.png)
 
-# Inversioón (Planes de precios)
+# Inversión (Planes y precios)
 
 ## Opción 1:
 - [Google RollOut Opcion-1: ](https://docs.google.com/spreadsheets/d/1c4yo2j-C4T0zpIs_w0koCj7EBPP0vFAiI9s0bpoKX1Y/edit?usp=sharing)
@@ -82,7 +82,7 @@ El proyecto se ejecutará en el transcurso de 12 meses, después de la aceptaci�
 - Mes 1-12:    $5M
 
 ## Opción 3:
-- [Google RollOut Opcion-2](https://docs.google.com/spreadsheets/d/14ZzwYLTnI9cZULSmTt8IZEJMP7YIC4GN_HM9_KxhoUM/edit?usp=sharing)
+- [Google RollOut Opcion-3](https://docs.google.com/spreadsheets/d/14ZzwYLTnI9cZULSmTt8IZEJMP7YIC4GN_HM9_KxhoUM/edit?usp=sharing)
 
 El proyecto se ejecutará en el transcurso de 18 meses, después de la aceptación del producto y transcurrido los 18 meses se hará un nuevo acuerdo donde se estipulará el cobro por orden de servicio creada, ésto quiere decir que dependiendo de ése número se harán los cargos mensuales.
 
@@ -119,7 +119,7 @@ TOTAL           [price]
 
 # Hitos
 
-Nos gusta mantenerte actualizado. Una vez que se llegue a un acuerdo, programaremos reuniones para asegurarnos de que el software funcione para usted. A continuación se muestra la lista de hitos que mantenemos para el uso estándar dentro de la metodología SCRUM, aunque si desea realizar cambios o agregar hitos, contáctenos.
+Nos gusta mantenerte actualizado. Una vez que se llegue a un acuerdo, programaremos reuniones para asegurarnos de que el software funcione para usted. A continuación se muestra la lista de hitos que mantenemos para el uso estándar dentro de la metodología Scrum, aunque si desea realizar cambios o agregar hitos, contáctenos.
 
 - Reunión Inicial
 - Reunión áreas de interés para la definicion de Ux/UI (2 semanas)
