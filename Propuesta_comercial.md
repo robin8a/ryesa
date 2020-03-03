@@ -26,7 +26,7 @@ Con el fin de tener una clasificación clara de los ERPs o Modulos principales q
 
 1. Módulo de Recursos Humanos
 2. Módulo de Ordenes de Servicio
-3. Módulo de Aprovisionamiento-Almacén (herramientas, materiales, equipos, dotacioón, sub-almacenes, reintregos) 
+3. Módulo de Aprovisionamiento-Almacén (herramientas, materiales, equipos, dotación, sub-almacenes, reintregos) 
 4. Módulo Despacho
 5. Módulo Cuadrilla(Técnicos-AppiOS/Android) 
 6. Módulo de liquidación (Reportes)
@@ -47,8 +47,7 @@ El proyecto se ejecutará en el transcurso de 6 meses, después de la aceptació
 - Experto Ux/UI 4 meses
 - Ingeniero dedicado los primeros 4 meses 
 - Soporte horas oficina (lunes a viernes)
-- Paquete (peso 8) nuevas funcionalidades a partir de la entrega y aceptacion del proyecto
-- Poliza de incumplimiento
+- Paquete (peso 8) nuevas funcionalidades a partir de la entrega y aceptacion del proy
 
 ### Pago Inicial: 
 - $20M
@@ -60,7 +59,7 @@ El proyecto se ejecutará en el transcurso de 6 meses, después de la aceptació
 ## Opción 2:
 - [Google RollOut Opcion-2](https://docs.google.com/spreadsheets/d/1xbeF_M3Zhp4skJNZgf-cqyLOJjZNILMa6xobYr1buoE/edit?usp=sharing)
 
-El proyecto se ejecutará en el transcurso de 12 meses, después de la aceptación del producto se hará un nuevo acuerdo donde se estipulará el cobro por orden de servicio creada, ésto quiere decir que dependiendo de ése número se harán los cargos mensuales. 
+El proyecto se ejecutará en el transcurso de 12 meses, después de la aceptación del producto se hará un nuevo acuerdo donde se estipulará el cobro por (orden de servicio, usuarios, item inventario) creados y un mínimo para soporte y mantenimiento, ésto quiere decir que dependiendo de éstos valores se harán los cargos mensuales.
 
 ### Incluye
 
@@ -73,7 +72,8 @@ El proyecto se ejecutará en el transcurso de 12 meses, después de la aceptaci�
 
 
 ### No incluye
-- [RO] Poliza de incumplimiento
+
+- Costos de AWS
 
 ### Pago Inicial: 
 - $20M
@@ -96,8 +96,8 @@ El proyecto se ejecutará en el transcurso de 18 meses, después de la aceptaci�
 
 
 ### No incluye
-- [RO] Poliza de incumplimiento
 - [RO] Experto Ux/UI, se hará con plantillas y estándares
+- Costos de AWS
 
 ### Pago Inicial: 
 - $20M
@@ -117,7 +117,7 @@ A continuación se muestra la lista de servicios incluidos con el proyecto. ¿Ve
 TOTAL           [price]
 
 
-# Hitos
+# Hitos y cómo trabajamos?
 
 Nos gusta mantenerte actualizado. Una vez que se llegue a un acuerdo, programaremos reuniones para asegurarnos de que el software funcione para usted. A continuación se muestra la lista de hitos que mantenemos para el uso estándar dentro de la metodología Scrum, aunque si desea realizar cambios o agregar hitos, contáctenos.
 
@@ -136,24 +136,24 @@ Nos gusta mantenerte actualizado. Una vez que se llegue a un acuerdo, programare
 - Pruebas antes de reunión y reportes de incidentes
 
 
-# How We Work
+# Próximos paso
+Hablemos de los próximos pasos. Como acordamos el proyecto, ¡lo primero que necesita es cómo ponerse en contacto con nosotros! Entonces, si tiene alguna pregunta o inquietud, comuníquese con +57-3133435366 o arturo@interpegasus.com. Si no podemos responder de inmediato, tenga la seguridad de que nos pondremos en contacto con usted dentro de un día hábil.
 
-# Next Steps
-Let’s talk about next steps. Since we’ve agreed on the project, the first thing you need is how to get in contact with us! So if you have any questions or concerns, please reach out to [phone number] or [email address]. If we can’t answer right away, rest assured that we’ll get back to you within one business day.
+Cuando este acuerdo se complete y se firme, nuestro primer orden del día será programar un tiempo para sentarnos y conversar. Analizaremos los problemas que ha tenido, las necesidades que pueda tener y cómo [la Solución SaaS] puede ayudarlo a satisfacer sus necesidades.
 
-When this agreement is completed and signed, our first order of business will be to schedule a time to sit down together and talk. We’ll discuss the problems you’ve been having, any needs you may have, and how [SaaS Solution] can help meet your needs.
+El trabajo comienza tan pronto como se despeja el primer pago. ¡No podemos esperar para comenzar!
 
-Work begins as soon as the first payment is cleared. We can’t wait to get started!
-
-# Terms
-1. Payment structure will be via credit card or PayPal. Monthly subscription based, no strings attached.
-2. Any information received by the client will be subject to a confidentiality agreement.
-3. All original documents obtained from the client will remain the sole property of the client. All documents obtained by the client from [Our Company] will remain the property of [Our Company.]
-4. The software license for [SaaS Solution] will terminate when the agreement terminates.
-5. [Our Company] retains all intellectual property rights to the software we provide.
-6. [Our Company] will provide training in the use of the software, and IT support for the product for [x] months.
-7. Any work requested outside of or resulting from this project will be subject to a separate evaluation, analysis, and invoicing.
-8. In the case of project cancellation, the client agrees to pay for all work hours already completed.
+# Términos y condiciones
+1. La estructura de pago se realizará mediante tarjeta de crédito o PayPal. Suscripción mensual basada, sin condiciones.
+2. Cualquier información recibida por el cliente estará sujeta a un acuerdo de confidencialidad.
+3. Todos los documentos originales obtenidos del cliente seguirán siendo propiedad exclusiva del cliente. Todos los documentos obtenidos por el cliente de interPegasus seguirán siendo propiedad de RYESA.
+4. La licencia de software para [Solución SaaS] finalizará cuando finalice el acuerdo.
+5. interPegasus retiene todos los derechos de propiedad intelectual sobre el software que proporcionamos.
+6. interPegasus proporcionará capacitación en el uso del software y soporte de TI para el producto durante 1 mes.
+7. Cualquier trabajo solicitado fuera de este proyecto o como resultado de este estará sujeto a una evaluación, análisis y facturación por separado.
+8. En el caso de cancelación del proyecto, el cliente acepta pagar todas las horas de trabajo ya completadas.
+9. Las vigencia de los precios contenidos en éste documento es de 30 días hábiles
+10. No se incluyen impuestos en Colombia
 
 
 # Ejemplo Costo Poliza
